@@ -1,0 +1,78 @@
+.sub-content{
+    background-color: #1A0E00;
+  
+    height: 444px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.subp{
+     margin-top: 20px;
+    margin-left: 60px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: 7%;
+    color: #FF450D;
+}
+.subh1{
+    margin-top: 20px;
+    margin-left: 60px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: -3%;
+    color: white;
+  
+}
+.sub-rigth{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.subrp{
+    font-family: Lexend Deca;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #F2F2F2;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+.email{
+    font-family: Urbanist;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 26px;
+    letter-spacing: -2%;
+    color: #999999;
+    border: none;
+    background: none;
+}
+.subrb{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -170px;
+    margin-right: 100px;
+}
+.subscribe{
+    width: 176px;
+    height: 52px;
+    padding: 15px 48px 15px 48px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: white;
+    background-color: #FF450D;
+    border-radius: 8px;
+    border: none;
+}
+.line{
+    margin-right:100px;
+}

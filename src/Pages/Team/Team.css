@@ -1,0 +1,88 @@
+.team-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #FAFAFA;
+}
+.team-top{
+    margin: 80px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.why{
+    font-size: 20px;
+    color: orangered;
+    font-family: Lexend Deca;
+}
+.team-head{
+    font-size: 60px;
+    font-family: Urbanist;
+    
+}
+
+.rightpara{
+    font-size: 15px;
+    word-wrap: break-word;
+    color: grey;
+    font-family: Lexend Deca;
+    font-weight: 300;
+    line-height: 25px;
+    
+}
+.explore{
+    border: 1px solid orange;
+    background-color: #FF450D;
+    padding: 12px 36px;
+    margin-top: 20px;
+    font-family: "Urbanist";
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.team-bottom{
+    margin: 10px 200px;
+    display: flex;
+    gap: 32px;
+    padding: 30px 20px;
+
+}
+.bottom-containers{
+    width: 352px;
+    height: 339px;
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    border-bottom: 6px solid #FB8600;
+   
+  
+}
+.timage{
+    width: 130px;
+    height: 130px;
+    margin-top: 20px;
+    margin-left:100px ;
+}
+.thead{
+    font-size: 24px;
+    font-family: Urbanist;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: -2%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.tpara{
+    font-family: Lexend Deca;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: -2%;
+    font-weight: 300;
+    color: #808080;
+    margin-top: 15px;
+    margin-left: 20px;
+
+}
+.orange-bg2{
+    margin-top: -100px;
+    position: absolute;
+}

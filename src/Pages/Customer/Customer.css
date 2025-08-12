@@ -1,0 +1,88 @@
+
+.cust-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 80px 100px;
+   
+}
+.whatwedo{
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 60px;
+    letter-spacing: -3%;
+    color: #FF450D;
+}
+.cust-top-left{
+  
+    max-width: 55%;
+
+}
+.cust-top-right{
+    margin-top: 60px;
+    max-width: 50%;
+}
+
+.cust-head{
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 60px;
+    letter-spacing: -3%;
+    
+
+}
+
+.cust-right{
+    flex: 1;
+    font-family: Lexend Deca;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #808080;
+}
+.cust-bottom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 120px;
+
+}
+.cust-bottom-container{
+    width: 507px;
+    height: 418px;
+ 
+    
+}
+.cimage{
+    width: 410px;
+    height: 230px;
+}
+.chead{
+    margin-top: 50px;
+    font-family: Urbanist;
+    font-size: 32px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    margin-bottom: 10px;
+}
+.cpara{
+    font-size: Lexend Deca;
+    font-size: 16px;
+    font-weight: 300;
+    color: #808080;
+    line-height: 120%;
+    margin-bottom: 20px;
+}
+.cbut{
+    
+    font-size: 24px;
+    font-family: Urbanist;
+    font-weight: 700;
+    line-height: 100%;
+    color: #FF450D;
+    margin-bottom: 50px;
+
+}

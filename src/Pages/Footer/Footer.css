@@ -1,0 +1,84 @@
+.footer-container{
+    background-color: #FF450D;
+
+}
+.footer-top{
+    margin: 0px 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer-tl{
+    margin-top: 40px;
+
+}
+.logo{
+    width: 139px;
+    height: 61px;
+}
+.address{
+    font-size: 16px;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -2%;
+    color: #FFEBE5;
+}
+.footer-tr{
+    display: flex;
+    gap:80px;
+    margin-top: 50px;
+
+}
+.footer-tr ul li{
+    font-family: Urbanist;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    line-height: 36px;
+    letter-spacing: -2%;
+    list-style: none;
+}
+.footer-middle{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.icons{
+    display: flex;
+    gap: 30px;
+}
+.iconimgs{
+    width: 32px;
+    height: 32px;
+}
+.brand-imgs{
+    display: flex;
+    gap: 37px;
+    margin-bottom: 10px;
+}
+.b1{
+    width: 102px;
+    height: 40px;
+    margin-top: 40px;
+}
+.footer-down{
+    height:66px;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+}
+
+.copyright{
+    font-family: Urbanist;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+   
+    
+
+}

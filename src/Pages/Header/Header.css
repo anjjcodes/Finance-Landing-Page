@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 80px;
+
+}
+.options ul{
+    display: flex;
+    gap: 50px;
+}
+.options ul li{
+    list-style: none;
+    font-size: 17px;
+    font-family: 'Urbanist';
+    font-weight: 400;
+    margin-top: 10px;
+
+}
+
+.each-button1, .each-button2{
+    padding: 10px 20px;
+    border: 1px solid #FF6333;
+    font-family: "urbanist";
+    font-weight: 600;
+    
+}
+.each-button1{
+    background-color: white;
+    color: #FF6333;
+    margin-right: 10px;
+    
+}
+.each-button2{
+    background-color: #FF6333;
+    color: white;
+}
+.logo-img{
+    width: 100px;
+
+}

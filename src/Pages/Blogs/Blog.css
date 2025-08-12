@@ -1,0 +1,108 @@
+.blog-container{
+    margin: 80px 100px;
+}
+
+.blogs{
+    font-size: 24px;
+    font-family: Urbanist;
+    font-weight: 700;
+    color: #FF450D;
+    line-height: 60px;
+    letter-spacing: -3%;
+    text-align: center;
+}
+.blogsh1{
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    text-align: center;
+}
+.main-blog{
+    margin-top: 50px;
+    display: flex;
+    width: 1274.75px;
+    height: 285px;
+    background-color: #FFF3E5;
+    justify-content: space-between;
+
+    
+}
+.invest{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: 7%;
+    color: #FF450D;
+}
+.finra{
+    margin-left: 30px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 36px;
+    letter-spacing: -2%;
+    margin-top: 7px;
+}
+.finrap{
+    margin-left: 30px;
+    font-family: Lexend Deca;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: #808080;
+    margin-top: 10px;
+}
+.read-more{
+    font-size: 16px;
+    font-family: Urbanist;
+    font-weight: 600;
+    line-height: 16px;
+    color: #FF450D;
+    border: none;
+    background-color:#FFF3E5;
+     margin-left: 30px;
+     margin-top: 40px;
+
+}
+.main-bottom{
+    display: flex;
+    gap: 20px;
+}
+.main-bot{
+    width: 406px;
+    height: 436px;
+    top: 316px;
+    margin-top: 30px;
+    background-color: #FFF3E5;
+    display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+    
+}
+.bname{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: 7%;
+    color: #FF450D;
+
+}
+.bdesc{
+    margin-left: 30px;
+    font-family: Urbanist;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 36px;
+    letter-spacing: -2%;
+    margin-top: -80px;
+    
+
+}
